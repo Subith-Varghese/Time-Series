@@ -1,4 +1,4 @@
-### 1.Sales Forecasting Project using Prophet :
+## 1.Sales Forecasting Project using Prophet :
 Developed a sales forecasting model for retail stores to predict weekly sales using historical sales data.
 * Data Processing: Cleaned and aggregated sales data by store and date to create time series data, ensuring accurate input for forecasting.
 * Modeling: Applied the Prophet library for time series forecasting with weekly seasonality, fitting the model to store-specific historical sales data.
